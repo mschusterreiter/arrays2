@@ -30,7 +30,7 @@ Um Ihr Programm zu testen, erstellen Sie eine `Main`-Klasse, welche die `main`-M
 Setzen Sie folgendes Klassendiagramm um:
 
 <p align="center">
-  <img src="/assets/images/UML1.png" alt="Bildbeschreibung" />
+  <img src="/assets/images/UML2.png" alt="Bildbeschreibung" />
 </p>
 
 Hinweis für alle Klassen: Benötigte `getter` und `setter` sind zu implementieren.
